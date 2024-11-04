@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color:rgb(0, 0, 0, .8);
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+}
+div{
+    margin-left: 5px;
+}
+label{
+    display: block;
+}
+input{
+    margin-bottom: 5px;
+}
+textarea{
+    height: 60px;
+}
+button{
+    display: block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: limegreen;
+    border: 0rem;
+    color: white;    
+}
