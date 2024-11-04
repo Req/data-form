@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+    
+    input , textarea {
+        display: block;
+       margin: .3rem 0;
+      }
+legend {
+    margin: 20px 0;
+}
+
+button 
+    {
+        background-color: rgb(15, 199, 15);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 8px;
+     font-size: 1.2rem;
+     margin: 15px 0;
+      }
+
+      h1 {
+        color: white;
+        background-color: rgb(65, 65, 65);
+        margin-left: 0;
+        padding: 1rem;
+        width: 100vw;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+
+     h2 ,  .form {
+        margin-left: .6rem;
+      }
