@@ -1,0 +1,20 @@
+h1 {
+    background-color: gray;
+    font-family: sans-serif;
+    margin: auto;
+    color: white;
+    padding: 15px;
+    font-size: 400;
+}
+form label,input {
+    display: block;
+    font-family: sans-serif;
+    padding: 5px;
+}
+button {
+    background-color: orange;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top: 10px;
+}
