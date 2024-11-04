@@ -1,0 +1,27 @@
+
+header {
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    font-size: 28px;
+}
+
+
+
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+
+button {
+
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+
+}
